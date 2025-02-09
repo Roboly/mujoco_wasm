@@ -1,4 +1,5 @@
 # Compiled Object files
+**/dev-bundle
 **/.DS_Store
 *.slo
 *.lo
